@@ -99,4 +99,4 @@ which includes [downloading](https://wiki.cancerimagingarchive.net/pages/viewpag
 
 For further questions about this code, please contact luisa.gallee@uni-ulm.de
 
-Find this [repository](https://github.com/LuisaGallee/E2MIP_LIDCI-IDRI_classification) as starting point for classification and this [repository](https://github.com/LuisaGallee/E2MIP_LIDCI-IDRI_segmentation) for starting point for segmentation.
+Find this [repository](https://github.com/XRad-Ulm/E2MIP_LIDCI-IDRI_classification) as starting point for classification and this [repository](https://github.com/XRad-Ulm/E2MIP_LIDC-IDRI_segmentation) as starting point for segmentation.
